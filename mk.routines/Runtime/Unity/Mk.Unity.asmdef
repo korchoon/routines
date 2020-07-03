@@ -1,0 +1,16 @@
+{
+    "name": "Mk.Unity",
+    "references": [
+        "Mk.Reactive",
+        "Mk.Routines",
+        "Mk.Debugs"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

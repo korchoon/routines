@@ -1,0 +1,16 @@
+{
+    "name": "Mk.Tracer",
+    "references": [
+        "Mk.Debugs"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "MkDebugs.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
